@@ -13,6 +13,7 @@
 		2385A73326B99A3E00078E1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2385A73126B99A3E00078E1D /* Main.storyboard */; };
 		2385A73526B99A4200078E1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2385A73426B99A4200078E1D /* Assets.xcassets */; };
 		2385A73826B99A4200078E1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2385A73626B99A4200078E1D /* LaunchScreen.storyboard */; };
+		2385A74026B9A2C600078E1D /* WindowModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2385A73F26B9A2C600078E1D /* WindowModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2385A73426B99A4200078E1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2385A73726B99A4200078E1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2385A73926B99A4200078E1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2385A73F26B9A2C600078E1D /* WindowModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2385A72B26B99A3E00078E1D /* AppDelegate.swift */,
 				2385A72D26B99A3E00078E1D /* SceneDelegate.swift */,
 				2385A72F26B99A3E00078E1D /* ViewController.swift */,
+				2385A73F26B9A2C600078E1D /* WindowModel.swift */,
 				2385A73126B99A3E00078E1D /* Main.storyboard */,
 				2385A73426B99A4200078E1D /* Assets.xcassets */,
 				2385A73626B99A4200078E1D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2385A73026B99A3E00078E1D /* ViewController.swift in Sources */,
+				2385A74026B9A2C600078E1D /* WindowModel.swift in Sources */,
 				2385A72C26B99A3E00078E1D /* AppDelegate.swift in Sources */,
 				2385A72E26B99A3E00078E1D /* SceneDelegate.swift in Sources */,
 			);
